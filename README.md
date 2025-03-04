@@ -2,7 +2,7 @@
 
 This Blogging Website is created by Harshdeep Singh in a python module named as django. This is practice Web Development in python project done by me to get familiar with some web development stuffs in python.
 
-Developed by Harshdeep Singh (c) 2021
+Developed by Harshdeep Singh (c) 2023
 
 ## Features
 
